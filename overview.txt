@@ -1,0 +1,19 @@
+<!-- Add and display tasks -->
+-Requirements
+1.Name of the task
+2.Start time of the task
+3.Duration of the task
+4.End of the task is calculated and a tune is played,
+when task is completed
+
+Data format:
+-Details
+Tasks are receive as strings and stored as
+dictionaries(their keys are numbers), keys
+are used for adding, deleting, updating and marking as complete
+
+<!-- delete tasks -->
+
+<!-- update tasks -->
+
+<!-- mark tasks as complete -->
